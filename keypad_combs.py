@@ -41,5 +41,5 @@ def keypad(num):
 if __name__ == '__main__':
   print(keypad(5))
   print(keypad(456))
-  print(keypad(942)
+  print(keypad(942))
   print(keypad(113))
